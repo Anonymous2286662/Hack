@@ -1,4 +1,4 @@
-<a href="https://postimg.cc/bZJpM5NS"></a>
+<img href="https://postimg.cc/bZJpM5NS"></img>
 
 Установка проводится автоматически
 <br>
