@@ -1,4 +1,4 @@
-<img src="https://postimg.cc/bZJpM5NS" alt="alt text" title="image Title" />
+<img src="https://postimg.cc/bZJpM5NS" />
 <br>
 Установка проводится автоматически
 <br>
