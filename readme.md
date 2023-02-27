@@ -1,4 +1,4 @@
-<image src="https://postimg.cc/bZJpM5NS"></image>
+![]("https://postimg.cc/bZJpM5NS")
 <br>
 Установка проводится автоматически
 <br>
