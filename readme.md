@@ -1,4 +1,4 @@
-![]("https://postimg.cc/bZJpM5NS")
+![fg]("https://postimg.cc/bZJpM5NS")
 <br>
 Установка проводится автоматически
 <br>
